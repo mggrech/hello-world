@@ -1,2 +1,3 @@
 # hello-world
 this is my first repository
+I am just figuring out how GitHub works! Just typing something here...
