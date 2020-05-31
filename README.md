@@ -1,3 +1,3 @@
 # hello-world
 this is my first repository
-OK finally in the correcr branch - adding some more text
+I am just figuring out how GitHub works! Just typing something here...
